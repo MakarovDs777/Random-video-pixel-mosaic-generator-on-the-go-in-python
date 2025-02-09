@@ -19,3 +19,7 @@
 # Version 5
 
 ![Запись_2025_02_10_00_23_11_820](https://github.com/user-attachments/assets/c16ae87c-44be-468b-881f-ab467c438cdf)
+
+# Version 6
+
+![Запись_2025_02_10_01_10_14_694](https://github.com/user-attachments/assets/2b71c623-c7a3-4ef7-9279-8fc231a25768)
