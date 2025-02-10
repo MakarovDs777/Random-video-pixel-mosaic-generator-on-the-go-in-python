@@ -29,3 +29,7 @@
 # Version 7
 
 ![Запись_2025_02_11_00_01_02_900](https://github.com/user-attachments/assets/48609e41-ef71-4a81-8848-88358344740a)
+
+# Version 8
+
+![Запись_2025_02_11_00_09_37_27](https://github.com/user-attachments/assets/de8889d5-2d80-4b22-a9ee-e0cd15d2ccd7)
